@@ -1,0 +1,1 @@
+/Users/ikilledappl3/tweaks/keily/remove_junk.sh
